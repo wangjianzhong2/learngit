@@ -7,6 +7,6 @@
  
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>
-wangjianzhong shiyan5 web
+wangjianzhong shiyan5 webapps
 </body>
 </html>
